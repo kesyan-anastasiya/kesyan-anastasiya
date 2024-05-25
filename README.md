@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/kesyan-anastasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kesyan-anastasiya-linkedin" height="30" width="40" /></a>
 <a href="https://t.me/a_kesyan" target="blank"><img align="center" src="https://camo.githubusercontent.com/ce794c470edb4816a2b36b15ad36cbf6d88b7ed2c5bae3faca2a4e28dbaa3e62/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f74656c656772616d2d6170702e706e67" alt="kesyan-anastasiya-telegram" height="30"/></a>
   <a href="mailto:kesyan_anastasiya@mail.ru" title="Send me email, pls!">
-<img src="https://camo.githubusercontent.com/a4da5ddfafed31ca03ea703983579605e25c7871ad840ebee11bd28e9c6c36b0/68747470733a2f2f7777772e6672656569636f6e73706e672e636f6d2f75706c6f6164732f656d61696c2d6d61726b6574696e672d69636f6e2d656d61696c2d69636f6e2d312e706e67" height="30px" data-canonical-src="https://www.freeiconspng.com/uploads/email-marketing-icon-email-icon-1.png"></a>
+<img align="center" src="https://camo.githubusercontent.com/a4da5ddfafed31ca03ea703983579605e25c7871ad840ebee11bd28e9c6c36b0/68747470733a2f2f7777772e6672656569636f6e73706e672e636f6d2f75706c6f6164732f656d61696c2d6d61726b6574696e672d69636f6e2d656d61696c2d69636f6e2d312e706e67" height="30px" data-canonical-src="https://www.freeiconspng.com/uploads/email-marketing-icon-email-icon-1.png"></a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesyan-anastasiya&layout=compact)](https://github.com//kesyan-anastasiya/github-readme-stats)
