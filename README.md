@@ -5,9 +5,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kesyan-anastasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kesyan-anastasiya-linkedin" height="30" width="40" /></a>
-<a href="https://t.me/a_kesyan" target="blank"><img align="center" src="https://camo.githubusercontent.com/ce794c470edb4816a2b36b15ad36cbf6d88b7ed2c5bae3faca2a4e28dbaa3e62/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f74656c656772616d2d6170702e706e67" alt="kesyan-anastasiya-telegram" height="30"/></a>
+<a href="https://t.me/a_kesyan" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="kesyan-anastasiya-telegram" height="30"/></a>
   <a href="mailto:kesyan_anastasiya@mail.ru" title="Send me email, pls!">
-<img align="center" src="https://camo.githubusercontent.com/a4da5ddfafed31ca03ea703983579605e25c7871ad840ebee11bd28e9c6c36b0/68747470733a2f2f7777772e6672656569636f6e73706e672e636f6d2f75706c6f6164732f656d61696c2d6d61726b6574696e672d69636f6e2d656d61696c2d69636f6e2d312e706e67" height="30px" data-canonical-src="https://www.freeiconspng.com/uploads/email-marketing-icon-email-icon-1.png"></a>
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Deepin_Icon_Theme_%E2%80%93_deepin-mail_%2811%29.svg/640px-Deepin_Icon_Theme_%E2%80%93_deepin-mail_%2811%29.svg.png" height="30px" data-canonical-src="https://www.freeiconspng.com/uploads/email-marketing-icon-email-icon-1.png"></a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesyan-anastasiya&layout=compact)](https://github.com//kesyan-anastasiya/github-readme-stats)
@@ -55,5 +55,8 @@
   </a>
   <a href="https://redux.js.org/" target="blank" rel="noreferrer">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="blank" rel="noreferrer">
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/FrontendDevelopment/tailwind.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
