@@ -1,6 +1,6 @@
 # Hello There! 👋
 
-<p align="left">Nice to meet you! My name is Anastasiya and I'm a FullStack Developer (React, TypeScript, Node.js).</p>
+<p align="left">Nice to meet you! My name is Anastasiya and I'm a Frontend Developer (React, TypeScript, Node.js).</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
